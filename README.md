@@ -272,6 +272,6 @@ This project is open source and available for personal and commercial use.
 
 ## Credits
 
-- Built with [Cursor](https://cursor.sh/) AI-assisted development
+- Built with [Cursor](https://cursor.sh/) by Gayane Gharajyan
 - Fonts from [Google Fonts](https://fonts.google.com/)
 - Default mascot: Elmo from Sesame Street
